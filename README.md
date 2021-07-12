@@ -1,4 +1,6 @@
-# VPN Control for Raspberry Pi
+# pipn - VPN Control for Raspberry Pi
+
+The following instructions demonstrate how to set up a Raspberry Pi as an access point (AP), which routes requests through a VPN service. Any device connected to the AP will send requests through the VPN, if enabled. Additionally, pipn provides a graphical user interface to control VPN connections through a touch display connected to the Raspberry Pi.
 
 ![](./media/video.gif)
 
