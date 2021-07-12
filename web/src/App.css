@@ -1,0 +1,15 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  user-select: none;
+  display: 'flex',
+}
+
+.App-Content {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  user-select: none;
+  display: 'flex',
+}
